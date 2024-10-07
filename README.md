@@ -55,6 +55,5 @@ Open a pull request, and we'll review your changes.
 
 
 
-Contact
-For any inquiries or feedback, please reach out to ayomidegw@gmail.com.
+
 
