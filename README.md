@@ -53,8 +53,7 @@ Push your changes to your branch: git push origin feature-name
 
 Open a pull request, and we'll review your changes.
 
-License
-This project is open-source and available under the MIT License.
+
 
 Contact
 For any inquiries or feedback, please reach out to ayomidegw@gmail.com.
